@@ -59,5 +59,4 @@ def load_object(file_path):
 
     except Exception as e:
         raise CustomException(e, sys)
-Footer
-© 2023 GitHub, Inc.
+
